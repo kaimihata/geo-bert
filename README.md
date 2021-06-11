@@ -11,7 +11,7 @@ Either download the ipynb and run locally or run in Google Colab. The data argum
 
 **ACL:** Link to Come!
 
-**ArXiv:** Link to Come!
+**ArXiv:** https://arxiv.org/abs/2104.11295
 
 ## Bibtex:
 
