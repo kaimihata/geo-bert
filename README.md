@@ -1,7 +1,7 @@
 # geo-bert
 
 This work will is associated with the paper "On Geodesic Distances and Contextual Embedding Compression for Text Classification".
-To be presented at TextGraphs-15 at NAACL on June 11th.
+Presented at TextGraphs-15 at NAACL on June 11th.
 
 ## How to use: 
 
